@@ -1,6 +1,11 @@
 # isPrime
 
-Sample C/C++ project to check prime numbers.
+Sample code and project to calculate or check the prime numbers.
+
+- Check.cpp
+- Check.r
+
+-----------
 
 We calculate the prime numbers from **2** to **1999993** using that program in some seconds.
 
@@ -46,3 +51,9 @@ Prime-M74207281.txt    100%[====================================================
 - https://en.wikipedia.org/wiki/Discrete_Fourier_transform_(general)
 - https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 
+
+-------------
+
+`.R` is a file extension for a script written in R.
+
+R is a programming language designed for statistical computing and graphics purposes.
