@@ -64,6 +64,7 @@ bool isPrime(int number) {
 
 int main() {
 	int number;
+	cout << "> ";
 	cin >> number;
 	for(int index=1; index<=number; index++) {
 		// if(isPrime(index)) {
