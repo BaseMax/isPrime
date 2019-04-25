@@ -10,7 +10,7 @@ Maximum integer number supported in the most of the computers : **+18,446,744,07
 
 ----------
 
-You can see the **M74207281** Prime number if you think your system will not hang by click [here](https://raw.githubusercontent.com/BaseMax/isPrime/master/Prime-M74207281.txt).
+You can see the **M74207281** Prime number if you think your system will not hang by click [here](https://raw.githubusercontent.com/BaseMax/isPrime/master/Prime-M74207281.txt). (Length: 22338619, File-Size: 21M)
 
 ### Using
 
