@@ -50,7 +50,6 @@ int main() {
 	return 0;
 }
 
-
 bool isPrime(int number) {
 	if(number <= 1)
 		return false;
