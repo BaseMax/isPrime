@@ -23,3 +23,10 @@ Maximum integer number supported in the most of the computers : **+18,446,744,07
 19
 ```
 
+## Useful Links
+
+- https://en.wikipedia.org/wiki/Sieve_of_Atkin
+- https://en.wikipedia.org/wiki/Square-free_integer
+- https://en.wikipedia.org/wiki/Discrete_Fourier_transform_(general)
+- https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+
