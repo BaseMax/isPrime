@@ -8,3 +8,6 @@
 * @Repository : https://github.com/BaseMax/isPrime
 *
 **/
+#include <iostream>
+using namespace std;
+
