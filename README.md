@@ -12,6 +12,18 @@ Maximum integer number supported in the most of the computers : **+18,446,744,07
 
 You can see the **M74207281** Prime number if you think your system will not hang by click [here](https://raw.githubusercontent.com/BaseMax/isPrime/master/Prime-M74207281.txt). (Length: 22338619, File-Size: 21M)
 
+**`$ wget https://raw.githubusercontent.com/BaseMax/isPrime/master/Prime-M74207281.txt`**
+```
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.12.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22338619 (21M) [text/plain]
+Saving to: ‘Prime-M74207281.txt’
+
+Prime-M74207281.txt    100%[=============================================================>]  21.30M
+
+2019-04-25 16:06:50  - ‘Prime-M74207281.txt’ saved [22338619/22338619]
+```
+
 ### Using
 
 **`$ ./isPrime`**
