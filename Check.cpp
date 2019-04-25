@@ -15,13 +15,13 @@ using std::cin;
 using std::cout;
 
 bool isPrime(int number) {
-	int con=0;
-	for(int g=2; g<number; g++) {
-		if(number%g == 0) {
-			con++;
+	int count=0;
+	for(int index=2; index<number; index++) {
+		if(number % index == 0) {
+			count++;
 		}
 	}
-	if(con == 0) {
+	if(count == 0) {
 		return true;
 	}
 	return false;
