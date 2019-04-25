@@ -11,3 +11,13 @@
 #include <iostream>
 using namespace std;
 
+int main() {
+	int number;
+	cin >> number;
+	for(int index=1; index<=number; index++) {
+		if(isPrime(index)) {
+			cout << index << "\n";
+		}
+	}
+	return 0;
+}
